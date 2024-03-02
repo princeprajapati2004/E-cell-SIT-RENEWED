@@ -3,7 +3,8 @@
 Welcome to E-cell-SIT-RENEWED! This repository is dedicated to reverse engineering and enhancing the functionalities of a GitHub website developed by Mayank Rajput, providing an opportunity for innovation and improvement in design
 engineering.
 
-Objective: 
+Objective:
+
 The primary objective of this project is to analyze, deconstruct, and understand the existing GitHub website created by Mayank Rajput. Through reverse engineering, we aim to identify areas for enhancement, optimization, and innovation.
 
 Key Features:
