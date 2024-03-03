@@ -13,3 +13,5 @@ Reverse Engineering: Delve into the structure, codebase, and design principles o
 Analysis & Evaluation: Assess the strengths, weaknesses, and opportunities for improvement in the existing design and functionality.
 Innovation & Enhancement: Implement modifications, updates, and new features to enhance user experience, performance, and aesthetics.
 Documentation: Document the reverse engineering process, findings, and changes made to facilitate understanding and future development.
+
+https://darshanmoradiya.github.io/E-cell-SIT-RENEWED/
